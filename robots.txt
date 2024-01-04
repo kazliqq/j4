@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://slot-mahjong-ways.pandapower.org/sitemap.xml
